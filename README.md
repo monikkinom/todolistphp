@@ -7,8 +7,8 @@ The code was written keeping that in mind.
 
 ## Files
 Way to go about teaching
-1. Index.php
-2. Make tables in the DB with the schema
-3. Register.php
-4. Login.php
-5. Home.php followed by all the other additional features in the todolist.
+1. Index.php <br/>
+2. Make tables in the DB with the schema <br/>
+3. Register.php <br/>
+4. Login.php <br/>
+5. Home.php followed by all the other additional features in the todolist. <br/>
