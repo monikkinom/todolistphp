@@ -1,5 +1,5 @@
 # todolistphp
-This is PHP application I wrote to teach PHP to starters at a college workshop. 
+This is a PHP application I wrote to teach PHP to starters at a college workshop. 
 The audience of this workshop were absolute beginners with no idea of HTML,CSS or any web technology.
 
 The goal was to teach them the methodology used while developing the application rather than focusing on the syntax per se.
