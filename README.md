@@ -6,7 +6,7 @@ The goal was to teach them the methodology used while developing the application
 The code was written keeping that in mind.
 
 ## Files
-Way to go about teaching
+Way to go about teaching <br/>
 1. Index.php <br/>
 2. Make tables in the DB with the schema <br/>
 3. Register.php <br/>
